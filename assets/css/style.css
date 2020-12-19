@@ -88,18 +88,20 @@ p {
     color: #ffffff;
 }
 
+/* Consolidated the benefits h3s */
 .benefits h3{
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* Consolidated the benefits imgs */
 .benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-
+/* Consolidated SEO and SMM sections */
 .search-engine-optimization, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -118,10 +120,12 @@ p {
     color: #ffffff;
 }
 
+/* Consolidated the content imgs */
 .content img {
     max-height: 200px;
 }
 
+/* Consolidated the content h2s */
 .content h2 {
     margin-bottom: 20px;
     font-size: 36px;
