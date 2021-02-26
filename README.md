@@ -2,6 +2,7 @@
 # Horiseon Website
 
 Refactor code given to use by a third party to create a more user friendly website
+https://ngoody315.github.io/W1CHoriseon/
 
 ## Table of Contents
 1. [Installation](#install)
