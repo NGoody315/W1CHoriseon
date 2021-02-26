@@ -1,11 +1,26 @@
-In this challenge we were given code to refactor (or clean) for a company called Horiseon.
 
-At first glance the HTML code looked okay until I noticed that one of the links on the header wasn't redirecting to the correct part of the page.
-After locating the problem on line 29, I was able to give the code an id so it was able to link to the header
-I also included a title for the webpage so that the tab read "Horiseon" instaed of "Untitled"
-Since most of the images weren't of real value, I gave them an alt/title tag of " " and the main background title of "Horiseon"
-The CSS coding needed to be consolidated on the .benefits div, h3 and imgs
-I also consolidated the .content imgs and h2
-I was also able to combine the stylings for the SEO and SMM sections
-I provided all changes in CSS with a comment tag
-All of this was done to make the code look cleaner and function properly for the client.
+# Horiseon Website
+
+Refactor code given to use by a third party to create a more user friendly website
+
+## Table of Contents
+1. [Installation](#install)
+2. [Usage](#usage)
+3. [Collaborations](#collab)
+4. [Licenses](#license)
+5. [Questions](#question)
+
+## <a name="install"/>Installation
+NA
+
+## <a name="usage"/>Usage
+Refactoring this project helped me get experience in consolidating code when needed
+
+## <a name="collab"/>Collaborations
+NA
+
+## <a name="license"/>Licenses
+Unlicense
+
+## <a name="question"/>Questions
+If you have any questions you can contact me through https://github.com/NGoody315 or send me an email at : nikki.goodridge@gmail.com.
